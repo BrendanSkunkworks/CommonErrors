@@ -2,10 +2,11 @@
 public class Pokeball {
 
 	public static void main(String[] args) {
+		// This Pokeball graphic can be used to pawn newbs
 		// TODO Auto-generated method stub
 		System.out.println ("   @@@@@@@@@@");
-		System.out.println ("  @@Gamer@@@@@");
-		System.out.println (" @@@Nation@@@@@");
+		System.out.println ("  @@@@@@@@@@@@");
+		System.out.println (" @@@@@@@@@@@@@@@");
 		System.out.println ("@@@@@@@@@@@@@@@@");
 		System.out.println ("|||||[\"\"\"\"]|||||");
 		System.out.println ("|||||[....]|||||");
